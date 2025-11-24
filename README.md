@@ -35,3 +35,12 @@ The project is structured to support scalability and clean code practices.
 - **Responsive UI:** Supports all screen sizes
 
 ---
+👨‍💻 Developer
+
+Balsam serhan || Flutter Developer
+
+GitHub: https://github.com/balsamsrhan
+
+LinkedIn: https://www.linkedin.com/in/balsam-serhan/
+
+Email: serhanbalsam54@gmail.com
