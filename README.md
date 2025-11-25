@@ -1,6 +1,6 @@
 # 📦 grocery_delivery_app
 
-<img src="assets/Grocery App.png" alt="App Preview" width="900"/>
+<img src="assets/Grocery App.png" alt="App Preview" width="700"/>
 
 A modern **Grocery Delivery App** built with **Flutter**, providing a fast and seamless shopping experience with clean UI, smooth navigation, and scalable architecture.
 
